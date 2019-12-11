@@ -23,6 +23,10 @@
         padding: 2rem;
         width: 45vw;
 
+        @media (min-width: 1600px) {
+            width: 25vw;
+        }
+
         h1 {
             font-size: 4.5rem;
             color: black;
@@ -35,9 +39,10 @@
     }
 
     #landing-image {
+        
         padding: 1rem;
         border-radius: 2rem;
-        width: 55vw;
+        width: 75vw;
         height: 50vh;
         object-fit: cover;
 
