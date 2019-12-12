@@ -1,3 +1,5 @@
+
+
 body {
   margin: 0;
   padding: 0;
@@ -8,6 +10,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   /* background: #f8f8ff; */
   background: #efeff3;
+  overflow-x: hidden;
 }
 
 html {
